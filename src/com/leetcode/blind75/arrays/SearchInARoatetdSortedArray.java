@@ -1,4 +1,4 @@
-package com.practice.leetcode.blind75.array;
+package com.leetcode.blind75.arrays;
 
 public class SearchInARoatetdSortedArray {
 
