@@ -1,4 +1,4 @@
-package com.practice.leetcode.blind75.string;
+package com.leetcode.blind75.string;
 
 import java.util.HashMap;
 import java.util.Map;

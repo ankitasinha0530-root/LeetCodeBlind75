@@ -1,6 +1,6 @@
-package com.practice.leetcode.blind75.string;
+package com.leetcode.blind75.string;
 
-import com.practice.leetcode.blind75.linkedlist.LinkedListCircular;
+import com.leetcode.blind75.linkedlist.LinkedListCircular;
 
 public class MainLListTestCircular {
 

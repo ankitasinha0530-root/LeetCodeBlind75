@@ -1,4 +1,4 @@
-package com.practice.leetcode.blind75.matrix;
+package com.leetcode.blind75.matrix;
 
 import java.util.ArrayList;
 import java.util.List;

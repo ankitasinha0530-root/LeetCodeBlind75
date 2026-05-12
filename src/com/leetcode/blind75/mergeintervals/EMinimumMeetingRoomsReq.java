@@ -1,4 +1,4 @@
-package com.practice.leetcode.blind75.mergeintervals;
+package com.leetcode.blind75.mergeintervals;
 
 import java.util.Arrays;
 import java.util.Comparator;

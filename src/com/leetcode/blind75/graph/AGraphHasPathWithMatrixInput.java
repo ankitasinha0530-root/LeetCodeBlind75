@@ -1,4 +1,4 @@
-package com.practice.leetcode.blind75.graph;
+package com.leetcode.blind75.graph;
 
 import java.util.ArrayList;
 import java.util.HashMap;

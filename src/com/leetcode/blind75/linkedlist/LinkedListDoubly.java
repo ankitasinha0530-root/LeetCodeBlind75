@@ -1,4 +1,4 @@
-package com.practice.leetcode.blind75.linkedlist;
+package com.leetcode.blind75.linkedlist;
 
 public class LinkedListDoubly {
 

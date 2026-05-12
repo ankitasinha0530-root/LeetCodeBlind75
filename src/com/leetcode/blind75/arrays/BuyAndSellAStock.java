@@ -2,6 +2,8 @@ package com.leetcode.blind75.arrays;
 
 public class BuyAndSellAStock {
 
+    // https://www.youtube.com/watch?v=34WE6kwq49U
+
     public static void main(String[] args) {
 
         int[] prices = {7, 1, 5, 2, 6, 4};
@@ -22,7 +24,7 @@ public class BuyAndSellAStock {
                 int currProfit = prices[r] - prices[l];
                 maxProfit = Math.max(maxProfit, currProfit);
             } else {
-                l = r;
+                l = r; // mark minimum element as left
             }
             r += 1;
         }

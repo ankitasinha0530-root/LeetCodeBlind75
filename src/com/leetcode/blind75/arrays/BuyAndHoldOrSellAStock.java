@@ -2,6 +2,8 @@ package com.leetcode.blind75.arrays;
 
 public class BuyAndHoldOrSellAStock {
 
+    // https://www.youtube.com/watch?v=34WE6kwq49U
+
     public static void main(String[] args) {
         // we can plan to hold the stock and then get the profit by selling at max price
 

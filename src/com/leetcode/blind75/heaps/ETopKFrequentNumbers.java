@@ -1,4 +1,4 @@
-package com.practice.leetcode.blind75.heaps;
+package com.leetcode.blind75.heaps;
 
 import java.util.ArrayList;
 import java.util.HashMap;

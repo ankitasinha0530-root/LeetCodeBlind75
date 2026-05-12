@@ -1,4 +1,4 @@
-package com.practice.leetcode.blind75.tree;
+package com.leetcode.blind75.tree;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

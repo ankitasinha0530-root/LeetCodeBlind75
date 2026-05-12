@@ -1,4 +1,4 @@
-package com.practice.leetcode.blind75.graph;
+package com.leetcode.blind75.graph;
 
 public class BNumberOfIslands {
     // https://www.youtube.com/watch?v=jhQb1mkikwA

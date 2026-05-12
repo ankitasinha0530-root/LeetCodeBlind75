@@ -1,4 +1,4 @@
-package com.practice.leetcode.blind75.string;
+package com.leetcode.blind75.string;
 
 public class AllPalindromicSubString {
 
